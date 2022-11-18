@@ -28,7 +28,7 @@ And I like running! 🏃🏻‍♂️
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"><br>
 
 <img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white">
@@ -36,13 +36,13 @@ And I like running! 🏃🏻‍♂️
 <img src="https://img.shields.io/badge/Pinia-FFD859?logo=Pinia&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white"><br>
 
 <img src="https://img.shields.io/badge/Node-339933?logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white"><br>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/AWS--EKS-FF9900?logo=Amazon EKS&logoColor=white">
