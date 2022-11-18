@@ -31,7 +31,7 @@ And I like running! 🏃🏻‍♂️
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"><br>
 
 <img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Nuxt-4FC08D?logo=Nuxt.js&logoColor=white">
 <img src="https://img.shields.io/badge/Vuex-4FC08D?logo=Vuex&logoColor=white">
 <img src="https://img.shields.io/badge/Pinia-FFD859?logo=Pinia&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white">
