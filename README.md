@@ -1,8 +1,8 @@
 ## 최승환 Choi Seunghwan
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
-<a href="https://hwan-chorong.notion.site/26347e6c8d0e48dc9d5291f4e393407b" target="_blank"><img src="https://img.shields.io/badge/DevBlog-#000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/DevBlog-000000?style=for-the-badge&logo=Notion&logoColor=black">
+
 
 
 - [DEV BLOG](https://hwan-chorong.notion.site/26347e6c8d0e48dc9d5291f4e393407b) - 개발 블로그
