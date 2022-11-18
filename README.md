@@ -2,13 +2,7 @@
 
 반갑습니다! 개발자 최승환 입니다! 😄
 
-<div style="display: flex; gap: 4px">
-
-<a href="https://hwan-chorong.notion.site/26347e6c8d0e48dc9d5291f4e393407b"><img src="https://img.shields.io/badge/DevBlog-000000?style=for-the-badge&logo=Notion&logoColor=white">&nbsp;</a>
-
-<a href="https://www.youtube.com/channel/UCQ_r1-C9izwMI4cs56y4u1w"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white">&nbsp;</a>
-
-</div>
+<a href="https://hwan-chorong.notion.site/26347e6c8d0e48dc9d5291f4e393407b"><img src="https://img.shields.io/badge/DevBlog-000000?style=for-the-badge&logo=Notion&logoColor=white">&nbsp;</a> <a href="https://www.youtube.com/channel/UCQ_r1-C9izwMI4cs56y4u1w"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white">&nbsp;</a>
 
 [DEV BLOG](https://hwan-chorong.notion.site/26347e6c8d0e48dc9d5291f4e393407b) - 개발 블로그
 
