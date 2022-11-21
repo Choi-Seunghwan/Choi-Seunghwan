@@ -8,13 +8,13 @@
 안녕하세요 반갑습니다! 😄<br>
 프로그래밍을 즐기는 개발자 최승환입니다.<br>
 저는 풀스택 웹 개발 기술을 갖고 있습니다. 또한 인프라 및 IT 기술 전반에 관심이 많습니다.<br>
-팀 시너지와 소프트 스킬에도 관심이 많으며, 애자일 방법론/패러다임의 팀 성장 문화를 좋아합니다. 🙌
+팀 시너지와 소프트 스킬에도 관심이 많으며, '애자일 방법론/패러다임'의 팀 성장 문화를 좋아합니다. 🙌
 <br><br>그리고 달리기를 좋아합니다!! 🏃🏻‍♂️
 
 Hello, Nice to meet you! 😄<br>
 i'm Choi-Seunghwan, a developer who enjoys programming.<br>
 i have full stack web development technology. They are also interested in infrastructure and IT technology as a whole.<br>
-i am also interested in team synergy and soft skills, and I like the team growth culture of Agile Methodology/Paradigm. 🙌
+i am also interested in team synergy and soft skills, and I like the team growth culture of 'Agile Methodology/Paradigm'. 🙌
 
 And I like running! 🏃🏻‍♂️
 
