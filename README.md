@@ -36,6 +36,7 @@ And I like running! 🏃🏻‍♂️
 <img src="https://img.shields.io/badge/Pinia-FFD859?logo=Pinia&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/Recoil-3578E5?logo=Recoil&logoColor=white">
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white"><br>
 
 <img src="https://img.shields.io/badge/Node-339933?logo=Node.js&logoColor=white">
