@@ -35,7 +35,7 @@ And I like running! 🏃🏻‍♂️
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Grafana-F46800?logo=Grafana&logoColor=white">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white"><br>
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
