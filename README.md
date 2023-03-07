@@ -24,6 +24,19 @@ And I like running! 🏃🏻‍♂️
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Node-339933?logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white"><br>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/AWS--EKS-FF9900?logo=Amazon EKS&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-F46800?logo=Grafana&logoColor=white">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white">
+  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white">
@@ -38,18 +51,5 @@ And I like running! 🏃🏻‍♂️
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Recoil-3578E5?logo=Recoil&logoColor=white">
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white"><br>
-
-<img src="https://img.shields.io/badge/Node-339933?logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white"><br>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon AWS&logoColor=white">
-<img src="https://img.shields.io/badge/AWS--EKS-FF9900?logo=Amazon EKS&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Grafana-F46800?logo=Grafana&logoColor=white">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white">
 
 </div>
