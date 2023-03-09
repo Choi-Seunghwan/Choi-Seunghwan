@@ -2,7 +2,7 @@
 
 <a href="https://hwan-chorong.notion.site/26347e6c8d0e48dc9d5291f4e393407b"><img src="https://img.shields.io/badge/DevBlog-000000?logo=Notion&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCQ_r1-C9izwMI4cs56y4u1w"><img src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=white"></a>
-<a href="https://lolmbti.chorong.ch/"><img src="https://img.shields.io/badge/LoL--MBTI-7b6add?&logoColor=white"></a>
+<a href="https://lolmbti.net/"><img src="https://img.shields.io/badge/LoL--MBTI-7b6add?&logoColor=white"></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoi-Seunghwan&count_bg=%23EEB61B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 안녕하세요 반갑습니다! 😄<br>
